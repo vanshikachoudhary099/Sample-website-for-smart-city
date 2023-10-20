@@ -1,1 +1,1 @@
-# Sample-website-for-smart-city
+I have made this website for a smart city . In this , I have made 5 pages which can be accessed be only 1 main page. This is the outline of all the pages which is editable according to personal requirements
